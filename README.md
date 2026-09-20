@@ -99,5 +99,4 @@ python train.py \
 
 - GPU: Server requires `export CUDA_DEVICE_ORDER=PCI_BUS_ID && export CUDA_VISIBLE_DEVICES=0`
 - Model weights (.pth), videos (.mp4), and datasets are excluded from git (see `.gitignore`)
-- AprilTag IDs 18 and 19 are used for ground truth extraction
 
