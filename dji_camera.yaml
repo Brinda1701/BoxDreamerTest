@@ -1,0 +1,9 @@
+# DJI Action 4 相机专用 YOLO 检测数据集配置文件
+# 采用最稳健的 images 与 labels 标准结构
+path: d:/zjy/Deep_Learning/Test/bop_datasets/dji/train_pbr/000000
+train: images
+val: images
+
+# 类别定义 (Class 0: dji_camera)
+names:
+  0: dji_camera

@@ -1,0 +1,5 @@
+path: /mnt/data/home/zhoujiayan/BoxDreamer/yolo_full_scene_dataset
+train: images/train
+val: images/val
+names:
+  0: dji_camera
